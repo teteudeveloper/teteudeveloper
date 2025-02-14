@@ -13,7 +13,7 @@
   </div>
 
   <div style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=,html,css,js,ts,python,react,php,theme=dark" />
+    <img src="https://skillicons.dev/icons?i=,html,css,js,ts,python,react,theme=dark" />
   </div>
 
   <div align="center">
