@@ -13,7 +13,7 @@
   </div>
 
   <div style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=,html,css,js,ts,python,react,theme=dark" />
+    <img src="https://skillicons.dev/icons?i=,html,css,js,python,react,theme=dark" />
   </div>
 
   <div align="center">
@@ -22,10 +22,11 @@
       GitHub Analytics
     </h2>
   </div>
-
+  
   <div>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=teteudeveloper&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&include_all_commits=true&count_private=true"/>
-  </div>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=teteudeveloper&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=teteudeveloper&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&count_private=true"/>
+ </div>
 
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=teteudeveloper&theme=rogue&hide_border=true&bg_color=0d1117&line=8A2BE2&color=8A2BE2&custom_title=Contribution%20Graph&area=true"/>
 
