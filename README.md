@@ -7,13 +7,12 @@
 
   <div align="center">
     <h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
-      Tech Stack
+      🛠️ Technologies & Tools
     </h2>
   </div>
 
   <div style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=,html,css,js,python,react,theme=dark" />
+    <img src="https://skillicons.dev/icons?i=,python,js,react,nodejs,mysql,docker,git,theme=dark" />
   </div>
 
   <div align="center">
