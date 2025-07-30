@@ -30,7 +30,7 @@
   </div>
 
   <div align="center">
-    <a href="https://discord.com/users/1329033018891046942">
+    <a href="https://discord.gg/nmrNRcTmks">
       <img src="https://img.shields.io/badge/-Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117">
     </a>
     <a href="https://www.instagram.com/matheusramalhoand" target="_blank">
