@@ -10,7 +10,7 @@
   </div>
 
   <div style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,mongodb,postgresql,mysql,aws,docker,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,mongodb,postgresql,mysql,aws,docker,kubernetes,git&theme=dark" />
   </div>
 
   <div align="center">
