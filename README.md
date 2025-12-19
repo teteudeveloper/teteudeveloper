@@ -9,4 +9,5 @@
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=teteudeveloper&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&include_all_commits=true&count_private=true"/>
 
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteudeveloper&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2"/>
 </div>
